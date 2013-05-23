@@ -1,7 +1,7 @@
 """
     Author: Jacob Meikle
     Date: May 16, 2013
-    Program: Adventure_0.5.py
+    Program: Adventure_0.4.py
     Description: A text based adventure game with simple choices.
     
     0.3 Changes: Finished final outcomes. Reworded some things. Cleaned up code.
